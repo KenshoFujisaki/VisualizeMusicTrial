@@ -1,4 +1,6 @@
+// Output: Visualize music with processing - soundless - YouTube - https://www.youtube.com/watch?v=3fawjZlzl1c
 // Ref: computer graphics - http://macromarionette.com/computergraphics/cg10.html
+
 import ddf.minim.analysis.*;
 import ddf.minim.*;
 
