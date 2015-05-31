@@ -16,3 +16,10 @@ Processingにより音声を視覚化します．
 以下のエフェクトを発生させます．
 * X軸方向にマウスを移動するとLPF
 * Y軸方向にマウスを移動するとHPF
+
+#### 4. kinect-interaction
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/i5dgmsorDss/0.jpg)](http://www.youtube.com/watch?v=i5dgmsorDss)
+
+以下のエフェクトを発生させます．
+* X軸方向に手(Kinect)を移動するとHPF
+* Y軸方向に手(Kinect)を移動するとゲイン
